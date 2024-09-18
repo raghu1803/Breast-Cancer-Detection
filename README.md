@@ -1,0 +1,1 @@
+This project is a machine learning pipeline for classifying breast cancer as either malignant or benign using the Breast Cancer Wisconsin dataset from sklearn.datasets. The dataset consists of 30 features computed from digitized images of fine needle aspirate (FNA) of breast masses, and a target variable indicating the diagnosis (0 for malignant and 1 for benign)
